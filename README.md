@@ -1,6 +1,6 @@
 # Skills
 
-保存我在各个 AI Agent 下的 skill 集合，用于在新电脑上快速部署。
+保存在各个 AI Agent 下的 skill 集合，用于在新电脑上快速部署。
 
 ## 仓库结构
 
